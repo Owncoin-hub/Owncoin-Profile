@@ -25,7 +25,7 @@ git checkout xxx-token
 
 在 Owncoin-Profile/tokens/目录下选择所属链，如eth, 在里面添加一个新的 json 文件，使用你的代币合约地址命名这个文件，举例：   
 ```
-（0xf90f1648926005A8bb3ed8ec883164De7F768743.json）  
+0xf90f1648926005A8bb3ed8ec883164De7F768743.json  
 ```
 json 文件请使用 UTF-8 编码，内容请参照模版文件补充完整的代币资料：
 [内容模版](tokens/token.json)
