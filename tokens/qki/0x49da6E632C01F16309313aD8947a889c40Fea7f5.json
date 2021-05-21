@@ -1,0 +1,20 @@
+{
+  "mainnetwork":"qki 夸克链",//eht以太坊, bsc 币安链, heco 火币链, qki 夸克链, okb OK链, tron 波场等等
+  "assets_name":"VENICE",//币名称
+  "symbol": "VE",//币简称
+  "contract": "0x49da6E632C01F16309313aD8947a889c40Fea7f5",//合约地址
+  "icon":"image/0x49da6E632C01F16309313aD8947a889c40Fea7f5.png",
+  "contract_type":"erc20",//合约类型(erc20,trc20,trc10等等)
+  "decimals":"3",//精度
+  "overview":{
+        "en": "无",//英文简介
+        "zh": "无"//中文简介
+  },
+  //以下属性尽可能填写详细，以便于审核
+  "email": "875131723@qq.com",//邮箱
+  "website": "暂无",//官网地址
+  "team":"暂无",//团队背景
+  "Project_brief":"",//项目基本情况
+  "includeOTC":"https://www.upupex.com/zh_CN/",//收录的交易所
+  "gas_limit":"60000"//代币转账调用智能合约需要的 Gas limit（默认值 60000）
+}
