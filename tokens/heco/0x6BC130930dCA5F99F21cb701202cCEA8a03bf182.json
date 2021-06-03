@@ -1,0 +1,21 @@
+  
+{
+  "mainnetwork":"heco 火币链",//eht以太坊, bsc 币安链, heco 火币链, qki 夸克链, okb OK链, tron 波场等等
+  "assets_name":"DOGV2",//币名称
+  "symbol": "DOGV2",//币简称
+  "contract": "0x6BC130930dCA5F99F21cb701202cCEA8a03bf182",//合约地址
+  "icon":"images/0x6BC130930dCA5F99F21cb701202cCEA8a03bf182.png",//图标下载地址
+  "contract_type":"erc20,trc20,trc10",//合约类型(erc20,trc20,trc10等等)
+  "decimals":"18",//精度
+  "overview":{
+        "en": "DOGV2 (the second generation of Dogecoin) was initiated by the early investor group of the DOGE community and has been launched on the HECO chain MDEX. In the future, it will be deployed in multiple chains. DOGV2 is a global upgraded version of the DOGECOIN concept of the decentralized community construction experiment. It is called: The second generation of Dogecoin inherits the spirit of the first generation of Dogecoin DOGECOIN. It is honored by Satoshi Nakamoto, Musk, Vitalik, and Changpeng Zhao. The original sponsor has a total of 18 early investors in DOGECOIN, known as "2nd Generation Dogecoin 18 Arhats", and they are all long-term supporters of the DOGE community.",//英文简介
+        "zh": "DOGV2（二代狗狗币）由DOGE社区早期投资者团体发起、且已在HECO链MDEX上线，未来将多链部署，DOGV2为去中心化社区建设实验DOGECOIN理念的全球升级版，被称为：第2代狗狗币，继承了第一代狗狗币DOGECOIN的精神。由中本聪、马斯克、Vitalik、赵长鹏四人荣誉持有，为每人预留一枚DOGV2。原始发起方共18位DOGECOIN早期投资者，号称“2代狗狗币18罗汉”，他们都是DOGE社区的长期支持者。"//中文简介
+  },
+  //以下属性尽可能填写详细，以便于审核
+  "email": "contact@dogv2.dog",//邮箱
+  "website": "https://dogv2.dog",//官网地址
+  "team":"DOGV2（二代狗狗币）虽然他们都是DOGE的资深早期投资者，享受到了DOGE最大的价格成长红利，但是感慨DOGE的一路走来的经历，真的经历了曲曲折折，很多人在中途失去了DOGE，最终并未享受社区化代币的红利！18罗汉之一说了一句：要不我们重新践行DOGE当年的经历，发行二代狗狗币，继承DOGE当时的精神。谁知却得到了大家的热烈赞同。于是二代狗狗币应运而生。",//团队背景
+  "Project_brief":"DOGV2（二代狗狗币）由DOGE社区早期投资者团体发起、且已在HECO链MDEX上线，未来将多链部署，DOGV2为去中心化社区建设实验DOGECOIN理念的全球升级版，被称为：第2代狗狗币，继承了第一代狗狗币DOGECOIN的精神。重要特点：1：销毁DOGV2初始LP资金池凭证，无人能撤回资金池，项目可一直运行下去。2：通过了火币钱包的项目白名单，项目理念得到了认可。3：DOGV2合约通过了HECO白帽安全联盟审计机构“ARMORS LABS”的安全审计。4：组建了“DOGV2创世社区元老院”，将社区的决策由发起方“18罗汉”转交给“DOGV2元老院”，实现社区自治。",//项目基本情况
+  "includeOTC":"MDEX",//收录的交易所
+  "gas_limit":"60000"//代币转账调用智能合约需要的 Gas limit（默认值 60000）
+}
