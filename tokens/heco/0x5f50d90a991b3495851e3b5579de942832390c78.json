@@ -1,0 +1,20 @@
+{
+  "mainnetwork":"heco",
+  "assets_name":"DogMoon",
+  "symbol": "DogMoon Token",
+  "contract": "0x5f50d90a991b3495851e3b5579de942832390c78",
+  "icon":"https://ipfs.io/ipfs/QmZjfnTRrhuEmeG7BWmSS6n6b3wQbWvhLivpj2HT66pGZS",
+  "contract_type":"trc20",
+  "decimals":"9",
+  "overview":{
+        "en": "DogMoon is the first community token issued based on the DogMoon Protocol.The DogMoon Protocol was developed by an anonymous team.In order to realize their dreams, each node will take the initiative to expand new block super nodes, so as to continuously promote more super nodes to join them. The addition or exit of each new member will provide a steady stream of power to trigger the destruction of dividend mechanism. Finally, the dreams of all block super nodes are gradually achieve.",
+        "zh": "DogMoon是由一群狗狗币狂热爱好者们自由发起，通过互联网以匿名的方式发行，持有DogMoon的每一个人都是一个区块超级节点.DogMoon有3个简单的功能：分红+LP流动性+销毁，每笔交易都要交10%的手续费，分成两部分，5%费用，重新分配给所有持币者，5%的费用分成分成2半，其中一半通过合同出售给HT，另一半DogMoon代币自动与前面提到的HT配对，并作为LP池的流动性对添加，同时，LP池将永久锁定，不能撤销"
+		},
+ 
+  "email": "Email",
+  "website": "https://dogmoon.natappvip.cc",
+  "team":"",
+  "Project_brief":"",
+  "includeOTC":"",
+  "gas_limit":""
+}
