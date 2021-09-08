@@ -1,0 +1,20 @@
+{
+  "mainnetwork": "qki 夸克链", //eht以太坊, bsc 币安链, heco 火币链, qki 夸克链, okb OK链, tron 波场等等
+  "assets_name": "QBT", //币名称: null,
+  "symbol": "QBT", //币简称
+  "contract": "0xab5eB3a8C7f60deF30CB30Fec891921AC2c2b6d7", //合约地址
+  "icon": "images/0xab5eB3a8C7f60deF30CB30Fec891921AC2c2b6d7.png", //图标下载地址
+  "contract_type": "erc20", //合约类型(erc20,trc20,trc10等等)
+  "decimals": "3", //精度
+  "overview": {
+    "en": "", //英文简介
+    "zh": "" //中文简介
+  },
+  //以下属性尽可能填写详细，以便于审核
+  "email": "imxiuyan@qq.com", //邮箱
+  "website": "暂无", //官网地址
+  "team": "QBT由BT2.0 NGU社区发行，旨在让BT2.0用户在燃烧挖矿以外多一种入池挖矿的收益方式，同时入池也是一种锁定资产的方式，有一定的减产效果，算是为夸克的发展贡献自己的一份力量。", //团队背景
+  "Project_brief": "TIME发行总量202161枚，项目上线后入QBT/BT2.0流动池3000枚以及发起认购10000枚，后续QBT每上涨0.5BT2.0，社区会继续增加入池数量和发起认购。", //项目基本情况
+  "includeOTC": "暂无", //收录的交易所
+  "gas_limit": "60000" //代币转账调用智能合约需要的 Gas limit（默认值 60000）
+}
